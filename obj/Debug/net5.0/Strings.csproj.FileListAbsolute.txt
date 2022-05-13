@@ -1,0 +1,16 @@
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\bin\Debug\net5.0\Strings.exe
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\bin\Debug\net5.0\Strings.deps.json
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\bin\Debug\net5.0\Strings.dll
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\bin\Debug\net5.0\ref\Strings.dll
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\bin\Debug\net5.0\Strings.pdb
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\Strings.dll
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\ref\Strings.dll
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\Strings.pdb
+C:\Users\jhony\OneDrive\Documentos\Estudo\Curso Balta\C#\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
