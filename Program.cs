@@ -42,10 +42,22 @@ namespace Strings
             // Console.WriteLine(texto.EndsWith("boy"));
 
             /*EQUALS*/
-            string texto = "Isso é um teste boy";
-            Console.WriteLine(texto.Equals("Isso é um teste boy"));//EQUALS analisa se é exatamente igual ao objeto
-            Console.WriteLine(texto.Equals("isso e um teste bóy"));
-            Console.WriteLine(texto.Equals("Isso e um texte"));
+            // string texto = "Isso é um teste boy";
+            // Console.WriteLine(texto.Equals("Isso é um teste boy"));//EQUALS analisa se é exatamente igual ao objeto
+            // Console.WriteLine(texto.Equals("isso e um teste bóy"));
+            // Console.WriteLine(texto.Equals("Isso e um texte"));
+
+            /*ÍNDICES*/
+            // string texto = "Esse texto é um teste";
+            // Console.WriteLine(texto.IndexOf("é"));
+            // Console.WriteLine(texto.LastIndexOf("s"));
+            // Console.WriteLine(texto.IndexOf("e"));
+            // Console.WriteLine(texto.Insert(5,"Funcionasse?"));
+            // Console.WriteLine(texto.Remove(6,8));
+            // Console.WriteLine(texto.Length);
+
+            /*MANIPULANDO STRINGS*/
+            
         }
     }
 }
