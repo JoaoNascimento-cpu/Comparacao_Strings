@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using System.Text;
 
 namespace Strings
 {
@@ -58,6 +60,33 @@ namespace Strings
 
             /*MANIPULANDO STRINGS*/
             
+            // string texto = " Esse texto é um teste boy ";
+            // Console.WriteLine(texto.Replace("Esse", "isto")); //substitui o 1º valor pelo 2º inserido no Replace
+            // Console.WriteLine(texto.Replace("e", "a"));
+
+            // var dividir = texto.Split(" ");
+            // Console.WriteLine(dividir[0]);
+            // Console.WriteLine(dividir[1]);
+            // Console.WriteLine(dividir[2]);
+            // Console.WriteLine(dividir[3]);
+            // Console.WriteLine(dividir[4]);
+            // Console.WriteLine(dividir[5]);
+
+            // var resultado = texto.Substring(5, 10);//começa a partir do 5º caracter e em seguida pega os próximos 5 caracteres
+            // Console.WriteLine(resultado);
+
+            // Console.WriteLine(texto.Trim());
+
+            /*STRING BUILDER*/
+
+            var texto = new StringBuilder();
+            texto.Append(" Sem abuso ");
+            texto.Append(" Se eu estou com você ");
+            texto.Append("Não sou de ninguem ");
+            texto.Append("Eu sou o Seu bem ");
+
+            texto.ToString();
+            Console.WriteLine(texto);
         }
     }
 }
